@@ -1,0 +1,5 @@
+semantic-QA-Env/
+node_modules/
+__pycache__/
+.env
+

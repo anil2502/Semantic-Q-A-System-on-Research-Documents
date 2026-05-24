@@ -1,0 +1,13 @@
+
+python-dotenv
+
+langchain
+langchain-openai
+langchain-community
+langgraph
+faiss-cpu
+pypdf
+langgraph-checkpoint-sqlite
+ddgs # need to install it whenever u want to use DuckDuckgoSearch
+
+streamlit
